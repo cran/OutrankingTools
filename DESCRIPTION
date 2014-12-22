@@ -1,0 +1,15 @@
+Package: OutrankingTools
+Type: Package
+Title: Functions for Solving Multiple-criteria Decision-making Problems
+Version: 1.0
+Date: 2014-12-22
+Author: Michel Prombo <michel.prombo@statec.etat.lu> or <michel.prombo@gmail.com>
+Maintainer: Michel Prombo <michel.prombo@graduates.centraliens.net>
+Description: Functions to process ''outranking'' ELECTRE methods existing in the literature. See, e.g.,
+			 <http://en.wikipedia.org/wiki/ELECTRE> about the outranking approach and the foundations of ELECTRE methods.
+Depends: igraph
+License: GPL (>= 2)
+Packaged: 2014-12-23 14:32:05 UTC; exb627
+NeedsCompilation: no
+Repository: CRAN
+Date/Publication: 2014-12-24 01:26:42

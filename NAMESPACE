@@ -1,0 +1,4 @@
+exportPattern("^[[:alpha:]]+")
+export("Electre_1","Electre_tri","Electre3_AlphaBetaThresholds","Electre3_SimpleThresholds")
+import(igraph)
+

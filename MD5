@@ -1,0 +1,11 @@
+2b8da5eae52dddcad4ea19b56f30a1a1 *DESCRIPTION
+c54ef21b32b76fe8e977c2012c2500f1 *NAMESPACE
+77fe85bd83259afadbc2090294f1563f *R/Electre3_AlphaBetaThresholds.R
+045cb6373b540c48d862531f971f77e8 *R/Electre3_SimpleThresholds.R
+c454a0bf8fa999e468ccd15ebfa93006 *R/Electre_1.R
+a09129e39b071bf8428b1ce05a10b54d *R/Electre_tri.R
+c91b9760121ff22612b2c4b7487c5948 *man/Electre3_AlphaBetaThresholds.Rd
+5fc8a724c4145de4560ec7757205dfb1 *man/Electre3_SimpleThresholds.Rd
+79d421f59da3e6ddf83018a878c8fef1 *man/Electre_1.Rd
+89c3ac588f3593199479e26221d7e9d7 *man/Electre_tri.Rd
+11781eb2d25a1535b28ac0775ca2a8f5 *man/OutrankingTools-package.Rd
